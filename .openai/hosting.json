@@ -5,7 +5,5 @@
     "slug": "flr45-page",
     "expected_url": "https://flr45-page.ruby-buddy-0834.chatgpt.site"
   },
-  "static": {
-    "directory": "."
-  }
+  "static": "dist"
 }
