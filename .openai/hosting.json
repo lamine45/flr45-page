@@ -1,10 +1,5 @@
 {
   "project_id": "appgprj_6acc04e883208191a5a12411e09f6027",
-  "site": {
-    "title": "FLR45",
-    "slug": "flr45-page",
-    "expected_url": "https://flr45-page.ruby-buddy-0834.chatgpt.site"
-  },
   "static": {
     "directory": "dist"
   }
